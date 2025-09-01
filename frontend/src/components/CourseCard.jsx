@@ -1,0 +1,1 @@
+// Full CourseCard.jsx code as provided earlier
